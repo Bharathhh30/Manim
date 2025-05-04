@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vnsb3/Learning/Python/Manim/manimations/media/videos/main/480p15/partial_movie_files/RotatingSquare/1185818338_2303373450_223132457.mp4'
+file 'file:C:/Users/vnsb3/Learning/Python/Manim/manimations/media/videos/main/480p15/partial_movie_files/RotatingSquare/624642324_1868291423_557880437.mp4'
+file 'file:C:/Users/vnsb3/Learning/Python/Manim/manimations/media/videos/main/480p15/partial_movie_files/RotatingSquare/624642324_978890127_557880437.mp4'
+file 'file:C:/Users/vnsb3/Learning/Python/Manim/manimations/media/videos/main/480p15/partial_movie_files/RotatingSquare/624642324_4217992463_2779448598.mp4'
